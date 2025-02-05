@@ -1,1 +1,1 @@
-gem install jekyll
+gem "jekyll"
